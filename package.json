@@ -1,6 +1,6 @@
 {
   "name": "my-vscode-extensions",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "List your installed VS Code extensions in a Markdown file.",
   "main": "lib.js",
   "bin": "cli.js",
